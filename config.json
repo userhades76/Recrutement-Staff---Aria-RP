@@ -1,0 +1,17 @@
+{
+  "token": "",
+  "guildId": "1574455187693899937",
+  "panelChannelId": "1574459797112094821",
+  "applicationsChannelId": "1574459797112094821",
+  "reviewerRoleIds": [
+    "1574455358728966165",
+    "1574455472935927819",
+    "1574455215741083718"
+  ],
+  "staffRecruitment": {
+    "label": "Recrutement Staff",
+    "emoji": "🛡️",
+    "description": "Rejoindre l’équipe staff pour aider la communauté et gérer les tickets",
+    "acceptedRoleId": "ID_ROLE_STAFF"
+  }
+}
